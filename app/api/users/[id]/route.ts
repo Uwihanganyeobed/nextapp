@@ -1,4 +1,4 @@
-import NextResponse, { NextRequest } from "next/server";
+import {NextResponse, NextRequest } from "next/server";
 import db from "@/lib/db";
 import { User } from "@/types/user";
 
